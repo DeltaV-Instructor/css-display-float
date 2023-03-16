@@ -15,6 +15,7 @@ functionName();
 // parameters are variables = allow us to give things in our code human readable values that we can use throughout the code.
 
 //  parameters are place holders
+
 function multiply(num1, num2){
   console.log('1st parameter: ', num1);
   console.log('2nd parameter: ', num2);
@@ -22,4 +23,11 @@ function multiply(num1, num2){
 }
 
 // these are our values / ARGUMENTS!!!
-multiply(2,5);
+multiply(5,2);
+multiply(2, 3);
+multiply(45, 70);
+
+
+
+
+
